@@ -23,15 +23,15 @@ The data is sourced from the UCI Machine Learning Repository (Bank Marketing). I
 
 The original source provides multiple files. In this notebook the following datasets are used:
 
-bank-additional-full.csv (41,188 rows) as the primary dataset for EDA and final model evaluation.
+`bank-additional-full.csv` (41,188 rows) as the primary dataset for EDA and final model evaluation.
 
-bank-additional.csv (4,119 rows; ~10%) as a computational shortcut when exploring models that are expensive to tune (notably SVM). Any conclusions based on the reduced dataset are validated against the full dataset where feasible.
+`bank-additional.csv` (4,119 rows; ~10%) as a computational shortcut when exploring models that are expensive to tune (notably SVM). Any conclusions based on the reduced dataset are validated against the full dataset where feasible.
 
 The dataset and its documentation are credited to Moro, Cortez, and Rita (2014). Bank Marketing, UCI Machine Learning Repository. https://doi.org/10.24432/C5K306.
 
 **Notebook Structure**
 
-This notebook, Practical_Assignment_17.1_Jonathan_O'Dea.ipynb, includes the following sections:
+This notebook, `Practical_Assignment_17.1_Jonathan_O'Dea.ipynb`, includes the following sections:
 
 1. Business Understanding
 2. Data Understanding & EDA
@@ -72,6 +72,6 @@ Periodically review and adjust the model as client behaviour and economic condit
 **How to Run**
 
 1. The public project repository can be located at: https://github.com/Jonny802/Practical-Application-Assignment-17.1
-2. Download the project files Practical_Assignment_17.1_Jonathan_O'Dea.ipynb, bank-additional-full.csv and bank-additional.csv locally
+2. Download the project files `Practical_Assignment_17.1_Jonathan_O'Dea.ipynb`, `bank-additional-full.csv` and `bank-additional.csv` locally
 3. Place the datasets inside a local /data folder
 4. Run cells top-to-bottom.
